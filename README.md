@@ -41,3 +41,7 @@ with a single file inside named *launcher_icon.xml* with the following code
   <foreground android:drawable="@drawable/ic_launcher_foreground"/>
 </adaptive-icon>
 ```
+
+## Related Guides
+
+https://bendyworks.com/blog/a-month-of-flutter-awesome-adaptive-icons
